@@ -13,7 +13,7 @@ destacando el compromiso con el medio ambiente y ofreciendo una estética modern
 	•	HTML5 → estructura semántica y accesible
 	•	Sass (Dart Sass) → estilos escalables con variables y mixins
 	•	Google Fonts (IBM Plex Sans) → tipografía limpia y legible
-
+---
 ✨ Características
 	•	Header con navegación e íconos (perfil, wishlist, carrito).
 	•	Hero principal con mensaje de impacto y botón CTA.
